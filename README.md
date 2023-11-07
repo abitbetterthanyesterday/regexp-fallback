@@ -22,8 +22,6 @@ A tiny regexp checker. If the value isn't a valid regexp, return the string inst
 
 ## Usage
 
-[Complete API Documentation.](http://main.regexp-fallback.abitbetterthanyesterday.surge.sh/docs/)
-
 <!-- INSTALL/ -->
 
 <h2>Install</h2>
